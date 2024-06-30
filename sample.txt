@@ -1,1 +1,1 @@
-Thsi is a sample
+This is a sample change to show commit chabges in git
