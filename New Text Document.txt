@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is a sample file This is a sample file.
+=======
+This is a sample file ugvkhvik
+>>>>>>> 7060e0169ea0e6e910107d3b6eb31722f457df03
