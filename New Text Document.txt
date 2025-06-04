@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This is a sample file This is a sample file.
-=======
-This is a sample file ugvkhvik
->>>>>>> 7060e0169ea0e6e910107d3b6eb31722f457df03
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7bd38a280d84ec4074bf7bb0c08f5bfe624bb9e4c7e001e5ccfcdc6dfbb9670
+size 151
